@@ -1,0 +1,22 @@
+BONUS TASK
+Create an app for working in a library. It should operate
+with the following entities: Book, Librarian, Reader. The app
+should allow you to enter, delete, edit data, save to a file,
+load from a file, log actions, search for information about
+the entities (search results are to be displayed on the screen
+or output to a file). Use as many design patterns as you can
+for this task.
+
+CZ
+Vytvořte aplikaci pro práci v knihovně. Mělo by to fungovat
+s těmito subjekty: Kniha, Knihovník, Čtenář. Aplikace
+by vám mělo umožnit zadávat, mazat, upravovat data, ukládat do souboru,
+načíst ze souboru, protokolovat akce, vyhledávat informace o
+entity (výsledky vyhledávání se mají zobrazit na obrazovce
+nebo výstup do souboru). Použijte tolik návrhových vzorů, kolik můžete
+pro tento úkol.
+
+
+menu
+-> Navstevnik
+–>–>
